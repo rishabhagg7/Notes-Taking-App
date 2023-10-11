@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="plus_icon_for_adding_note_in_floating">plus icon for adding note in floating btn</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_symbol_icon">save symbol icon</string>
+    <string name="enter_the_title">Enter the Title</string>
+    <string name="enter_the_description">Enter the Description</string>
+    <string name="notes">Notes</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
